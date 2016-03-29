@@ -2,5 +2,7 @@
 name = "undup"
 version = "0.0.1"
 authors = ["Jacky Boen <aqiank@gmail.com>"]
+description = "A simple library that consists of utility functions for removing duplicate characters in a string." 
+license = "GPL-2.0"
 
 [dependencies]
