@@ -1,0 +1,6 @@
+[package]
+name = "undup"
+version = "0.0.1"
+authors = ["Jacky Boen <aqiank@gmail.com>"]
+
+[dependencies]
