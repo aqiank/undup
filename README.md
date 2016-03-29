@@ -9,7 +9,7 @@ You can look at `examples/simple.rs` and run it using `cargo run --example simpl
 
 or
 
-extern crate undup;
+    extern crate undup;
 
     use undup::undup_chars;
     
